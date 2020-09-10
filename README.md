@@ -1,3 +1,5 @@
+### Depracated: API portalu przeniesione zostało do API panelu
+
 # Fake Hunter
 System Fake Hunter składa się z trzech podsystemów: collectora, panelu i portalu.  Każdy z nich pełni odrębną funkcję, podlega odrębnemu cyklowi wydań i poddawany będzie różnym obciążeniom. 
 
